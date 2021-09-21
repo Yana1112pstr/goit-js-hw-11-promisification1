@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Yana1112pstr.github.io/goit-js-hw-11-promisification",
+  "homepage": "https://Yana1112pstr.github.io/goit-js-hw-11-promisification1",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11-promisification/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-11-promisification1/"
   },
   "repository": {
     "type": "git",
